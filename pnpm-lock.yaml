@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+specifiers:
+  prettier: ^2.7.1
+
+dependencies:
+  prettier: 2.7.1
+
+packages:
+
+  /prettier/2.7.1:
+    resolution: {integrity: sha512-ujppO+MkdPqoVINuDFDRLClm7D78qbDt0/NR+wp5FqEZOoTNAjPHWj17QRhu7geIHJfcNhRk1XVQmF8Bp3ye+g==, tarball: http://59.110.124.240:42400/repository/npm-public/prettier/-/prettier-2.7.1.tgz}
+    engines: {node: '>=10.13.0'}
+    hasBin: true
+    dev: false
